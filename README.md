@@ -1,4 +1,4 @@
-# AI Agents for Beginners - A Course
+# [AI Agents for Beginners - A Course](https://www.reddit.com/r/startups/comments/1dvwgpm/microsoft_is_giving_out_free_credits_for_their/)
 
 ![Generative AI For Beginners](./images/repo-thumbnail.png?WT.mc_id=academic-105485-koreyst)
 
